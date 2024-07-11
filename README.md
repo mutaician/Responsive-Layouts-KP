@@ -16,3 +16,6 @@ A project aimed at mastering the art of creating web layouts that adapt seamless
 - Media query examples
 - CSS Grid and Flexbox layouts
 - Responsive typography
+
+#### View Live Website
+[Click here](https://mutaician.github.io/Responsive-Layouts-KP/)
